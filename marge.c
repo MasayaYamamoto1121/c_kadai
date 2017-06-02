@@ -2,7 +2,7 @@
 
 #define TRUE  (1 == 1)
 #define FALSE (1 != 1)
-
+ 
 //入力バッファ用構造体、「num」=数字、「kind」=英字、「crlf」=改行コードを格納
 typedef struct FILE_BUF
 {
